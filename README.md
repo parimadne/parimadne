@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parimadne&label=Profile%20views&color=0e75b6&style=flat" alt="parimadne" /> </p>
 
-<p align="left"> <a href="https://twitter.com/parimitamadne" target="blank"><img src="https://img.shields.io/twitter/follow/parimitamadne?logo=twitter&style=for-the-badge" alt="parimitamadne" /></a> </p>
+<p align="left"> <a href="https://twitter.com/madneparimita" target="blank"><img src="https://img.shields.io/twitter/follow/parimitamadne?logo=twitter&style=for-the-badge" alt="parimitamadne" /></a> </p>
 
 - 🌱 I’m currently learning **Java,DSA,Database,Python etc.**
 
