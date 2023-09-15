@@ -12,9 +12,10 @@
 
 - 🌱 I’m currently learning **Java,DSA,Database,Python etc.**
 
-- 📫 How to reach me **parimitamadne@gmail.com**
+- 📫 reach me on:
+- **parimitamadne@gmail.com**
 
-- ⚡ Fun fact **I am Savage 😎**
+- **I am Savage 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
