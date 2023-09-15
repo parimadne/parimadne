@@ -1,5 +1,4 @@
 
-![logo]()
 <h1 align="center">Hi 👋, I'm Parimita Arvind Madne</h1>
 <h3 align="center">A passionate coder from India</h3>
 
