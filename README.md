@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/madneparimita" target="blank"><img src="https://img.shields.io/twitter/follow/madneparimita?logo=twitter&style=for-the-badge" alt="parimitamadne" /></a> </p>
 
-- 🌱 I’m currently learning **Java,DSA,Database,Python etc.**
+- 🌱 I’m currently learning **Java,DSA,Database etc.**
 
 - 📫 reach me on:
 - **parimitamadne@gmail.com**
